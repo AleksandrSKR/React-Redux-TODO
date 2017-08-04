@@ -1,0 +1,12 @@
+#button {
+    margin-left: 5px;
+    background-color: greenyellow;
+    border-radius: 5px;
+
+}
+#input {
+    border: 1px dotted red;
+}
+#input:active {
+    border: 1px solid blue;
+}
